@@ -1,4 +1,4 @@
-# !pip install flask
+pip install -r requirements.txt
 from flask import Flask
 from flask import request
 from flask import render_template
